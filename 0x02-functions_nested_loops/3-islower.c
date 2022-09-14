@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * islower - checks for lower case
- * retunr: always 0
+ * _islower - checks for lower case
+ * @c: contains value to be compared
+ * return: always 0
  */
 int _islower(int c)
 {
@@ -13,6 +14,6 @@ int _islower(int c)
 	else
 
 	{
-		return(0);
+		return (0);
 	}
 }
