@@ -4,7 +4,7 @@
  * islower - checks for lower case
  * retunr: always 0
  */
-inst _islower(int c)
+int _islower(int c)
 {
 	if (c > 'a' && c < 'z')
 	{
