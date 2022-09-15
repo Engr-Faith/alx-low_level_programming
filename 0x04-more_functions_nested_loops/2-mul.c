@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * mul - multiplies two digits
  * @a : first param;
