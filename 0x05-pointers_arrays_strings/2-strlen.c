@@ -5,12 +5,13 @@
 /**
  * _strlen - returns the length of a string
  * @s: a param;
- * return: returns a value
+ * Return: int
  */
 
 int _strlen(char *s)
 {
 	int len;
+
 	len = strlen(s);
 	return (len);
 }
