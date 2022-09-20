@@ -18,6 +18,4 @@ void print_rev(char *s)
 	{
 		printf("%c", s[i]);
 	}
-
-	return (0);
 }
